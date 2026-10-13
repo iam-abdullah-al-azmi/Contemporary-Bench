@@ -4,8 +4,9 @@
 
 A contemporary bench enables sitting in places, providing rest to human beings. I followed a YouTube video to design it and added some tweaks of my own.
 
-| Name | Image |
-| :--: | :---: |
+|          Name          |                        Image                         |
+| :--------------------: | :--------------------------------------------------: |
+| Contemporary Bench[^1] | ![Contemporary Bench](images/contemporary_bench.jpg) |
 
 ---
 
@@ -32,7 +33,7 @@ A contemporary bench enables sitting in places, providing rest to human beings. 
 
 ---
 
-## Applications [^1][^2]
+## Applications [^2][^3]
 
 - Entryway Seating
 - Garden and Patio Bench
@@ -56,6 +57,8 @@ The bench was modeled as a geometric prototype. The next steps are selecting a r
 
 ## References
 
-[^1]: [Modern garden benches](https://develop.gardenersworld.com/product-guides/outdoor-living/modern-garden-benches)
+[^1]: [Real Contemporary Bench](https://unsplash.com/@ashenone77)
 
-[^2]: [Nokk bench, metal, green, L 114 cm](https://www.madeindesign.co.uk/prod-nokk-bench-metal-green-l-114-cm-noo-ma-refm117385401.html)
+[^2]: [Modern garden benches](https://develop.gardenersworld.com/product-guides/outdoor-living/modern-garden-benches)
+
+[^3]: [Nokk bench, metal, green, L 114 cm](https://www.madeindesign.co.uk/prod-nokk-bench-metal-green-l-114-cm-noo-ma-refm117385401.html)
