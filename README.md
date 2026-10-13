@@ -2,7 +2,11 @@
 
 ## Summary
 
-A contemporary bench enables sitting in places, providing rest to human beings. I followed a YouTube video to design it and added some tweaks of my own.
+A contemporary bench enables sitting in places, providing rest to human beings. From quiet gardens and busy entrances to public parks, a bench gives people a place to pause, wait, or simply enjoy their surroundings. Unlike a traditional bench, a contemporary bench combines comfort with clean, flowing lines, so it works as a piece of design as well as a seat [^1].
+
+I followed a YouTube video to design it and added some tweaks of my own. The bench is built around two continuous, looped side frames that curve from the ground, up through the seat, and back toward the backrest. Between these frames, slim slats form the seat and the backrest, and the gaps between the slats give the surface a light, layered look. Following the video taught me the basic workflow, and my own tweaks, such as adjusting proportions and refining the details, helped me understand how each dimension changes the final form.
+
+The bench was developed as a computational model in SolidWorks. The main challenge was to keep the curved frames smooth and symmetrical while the slats stay aligned with them, because a small error in one curve shifts the whole assembly. The views and the section view below show how the frames, seat, and backrest come together. This prototype is a base concept design that can be developed further into a real, buildable bench.
 
 |          Name          |                        Image                         |
 | :--------------------: | :--------------------------------------------------: |
@@ -25,11 +29,48 @@ A contemporary bench enables sitting in places, providing rest to human beings. 
 
 ---
 
-## Technologies Used
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  |      Name      |
+| :-: | :------------: |
+| 01  |  Boss Extrude  |
+| 02  |     Sweep      |
+| 03  |   Move Face    |
+| 04  |     Fillet     |
+| 05  |     Sketch     |
+| 06  |     Plane      |
+| 07  |  Surface Loft  |
+| 08  |  Delete Face   |
+| 09  |  Surface Trim  |
+| 10  |      Loft      |
+| 11  |     Shell      |
+| 12  |    Thicken     |
+| 13  |     Split      |
+| 14  |  Surface Knit  |
+| 15  |   Split Line   |
+| 16  | Surface Extend |
+| 17  |    Combine     |
+| 18  |  Surface Cut   |
+| 18  | Body Move/Copy |
+| 18  |     Mirror     |
+
+---
+
+## Image of the Tool Used
+
+| No  |                                    Image                                     |
+| :-: | :--------------------------------------------------------------------------: |
+| 01  |  ![Image of the Tool Used One](images/contemporary_bench_tool_used_one.png)  |
+| 02  |  ![Image of the Tool Used One](images/contemporary_bench_tool_used_two.png)  |
+| 03  | ![Image of the Tool Used One](images/contemporary_bench_tool_used_three.png) |
 
 ---
 
