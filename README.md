@@ -1,4 +1,4 @@
-# Concept Design Prototype of a Contemporary Bench
+# A Looped-Frame Contemporary Bench with a Slatted Seat and Backrest
 
 ## Summary
 
