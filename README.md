@@ -2,6 +2,8 @@
 
 ## Summary
 
+A contemporary bench enables sitting in places, providing rest to human beings. I followed a YouTube video to design it and added some tweaks of my own.
+
 | Name | Image |
 | :--: | :---: |
 
