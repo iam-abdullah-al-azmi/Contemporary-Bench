@@ -64,7 +64,7 @@ The bench was developed as a computational model in SolidWorks. The main challen
 
 ---
 
-## Image of the Tool Used
+## Feature Tree
 
 | No  |                                    Image                                     |
 | :-: | :--------------------------------------------------------------------------: |
