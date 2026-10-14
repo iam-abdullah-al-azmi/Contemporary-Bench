@@ -96,6 +96,12 @@ The bench was modeled as a geometric prototype. The next steps are selecting a r
 
 ---
 
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
+
+---
+
 ## References
 
 [^1]: [Real Contemporary Bench](https://unsplash.com/@ashenone77)
@@ -103,9 +109,3 @@ The bench was modeled as a geometric prototype. The next steps are selecting a r
 [^2]: [Modern garden benches](https://develop.gardenersworld.com/product-guides/outdoor-living/modern-garden-benches)
 
 [^3]: [Nokk bench, metal, green, L 114 cm](https://www.madeindesign.co.uk/prod-nokk-bench-metal-green-l-114-cm-noo-ma-refm117385401.html)
-
----
-
-## Acknowledgements
-
-Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
