@@ -37,7 +37,7 @@ The bench was developed as a computational model in SolidWorks. The main challen
 
 ---
 
-## Tools Used
+## Feature Tree
 
 | No  |      Name      |
 | :-: | :------------: |
@@ -64,13 +64,13 @@ The bench was developed as a computational model in SolidWorks. The main challen
 
 ---
 
-## Feature Tree
+## Feature Tree Image
 
 | No  |                                    Image                                     |
 | :-: | :--------------------------------------------------------------------------: |
-| 01  |  ![Image of the Tool Used One](images/contemporary_bench_tool_used_one.png)  |
-| 02  |  ![Image of the Tool Used One](images/contemporary_bench_tool_used_two.png)  |
-| 03  | ![Image of the Tool Used One](images/contemporary_bench_tool_used_three.png) |
+| 01  |  ![Feature Tree Image One](images/contemporary_bench_feature_tree_one.png)  |
+| 02  |  ![Feature Tree Image Two](images/contemporary_bench_feature_tree_two.png)  |
+| 03  | ![Feature Tree Image Three](images/contemporary_bench_feature_tree_three.png) |
 
 ---
 
